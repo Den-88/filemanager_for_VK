@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">File manager for VK</string>
+    <string name="textview_set_prem">Для работы приложения необходимо предоставить разрешения для доступа к хранилищу</string>
+    <string name="button_set_prem">Предоставить разрешения</string>
+    <string name="sort_menu_title">Сортировка</string>
+    <string name="sort_by_name_up_title">По имени (по возрастанию)</string>
+    <string name="sort_by_name_dw_title">По имени (по убыванию)</string>
+    <string name="sort_by_size_up_title">По размеру (по возрастанию)</string>
+    <string name="sort_by_size_dw_title">По размеру (по убыванию)</string>
+    <string name="sort_by_date_up_title">По дате (по возрастанию)</string>
+    <string name="sort_by_date_dw_title">По дате (по убыванию)</string>
+    <string name="sort_by_ext_up_title">По расширению (по возрастанию)</string>
+    <string name="sort_by_ext_dw_title">По расширению (по убыванию)</string>
+    <string name="ic">ic</string>
+    <string name="kb">"%s Kb"</string>
+    <string name="status_new">Новый</string>
+    <string name="status_dif">Изменен</string>
+    <string name="status_not_dif">Без изменений</string>
+    <string name="none_string" />
+    <string name="choose_app">Выберите приложение:</string>
+    <string name="app_provider">com.example.filemanager_for_vk.provider</string>
+    <string name="share">Поделиться файлом</string>
+    <string name="share_text">Этот файл отправлен из тестового приложения, сделанного для прохождения на стажировку в ВК</string>
+    <string name="not_acsess">Не предоставлены необходимые разрешения!</string>
+</resources>

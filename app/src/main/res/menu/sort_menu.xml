@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/sortByNameUp"
+            android:title="@string/sort_by_name_up_title" />
+        <item
+            android:id="@+id/sortByNameDw"
+            android:title="@string/sort_by_name_dw_title" />
+        <item
+            android:id="@+id/sortBySizeUp"
+            android:title="@string/sort_by_size_up_title" />
+        <item
+            android:id="@+id/sortBySizeDw"
+            android:title="@string/sort_by_size_dw_title" />
+        <item
+            android:id="@+id/sortByDateUp"
+            android:title="@string/sort_by_date_up_title" />
+        <item
+            android:id="@+id/sortByDateDw"
+            android:title="@string/sort_by_date_dw_title" />
+        <item
+            android:id="@+id/sortByExtUp"
+            android:title="@string/sort_by_ext_up_title" />
+        <item
+            android:id="@+id/sortByExtDw"
+            android:title="@string/sort_by_ext_dw_title" />
+</menu>
